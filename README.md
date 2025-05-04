@@ -3,6 +3,7 @@
 This project showcases a real-time chat application built using advanced Java technologies. It leverages the power of Java Servlets, Java Server Pages (JSP), and WebSocket (implicitly through the `jakarta.servlet.annotation.WebServlet` annotation for servlet mapping) to create a dynamic and interactive user experience. The application persists chat messages and user data using MongoDB, a NoSQL database known for its flexibility and scalability.
 
 This README provides a comprehensive overview of the application's architecture, key components, setup instructions, and potential areas for future enhancements. By exploring this project, you can gain practical insights into building modern web applications with advanced Java concepts.
+here is the video link :
 
 ## Core Advanced Java Concepts Utilized
 
