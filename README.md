@@ -1,4 +1,4 @@
-# ChatApp: An Advanced Java Chat Application
+# ShutApp: An Advanced Java Chat Application
 
 This project showcases a real-time chat application built using advanced Java technologies. It leverages the power of Java Servlets, Java Server Pages (JSP), and WebSocket (implicitly through the `jakarta.servlet.annotation.WebServlet` annotation for servlet mapping) to create a dynamic and interactive user experience. The application persists chat messages and user data using MongoDB, a NoSQL database known for its flexibility and scalability.
 
